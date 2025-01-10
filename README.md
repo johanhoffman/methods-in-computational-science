@@ -7,6 +7,8 @@ Code represents reproduced student reports for weekly assignments in the course 
 
 https://www.kth.se/social/course/DD2363/
 
+Example slides are also given from the course at KTH. 
+
 The repository is maintained by Johan Hoffman:
 
 https://www.kth.se/profile/jhoffman
